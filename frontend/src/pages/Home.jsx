@@ -112,7 +112,7 @@ const Home = () => {
             width: "100%",
             height: "300px",
             margin: "0 auto",
-            marginTop: "20px"
+            marginTop: "21px"
         }
     }
 
